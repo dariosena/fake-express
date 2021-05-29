@@ -1,0 +1,26 @@
+{
+  "name": "fake-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariosena/fake-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariosena/fake-express/issues"
+  },
+  "homepage": "https://github.com/dariosena/fake-express#readme",
+  "dependencies": {
+    "array-flatten": "^3.0.0",
+    "merge-descriptors": "^1.0.1",
+    "methods": "^1.1.2",
+    "setprototypeof": "^1.2.0"
+  }
+}
